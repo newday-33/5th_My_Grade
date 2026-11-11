@@ -13,12 +13,12 @@
 
 /* ===== 학년 (1~6) ===== */
 const GRADES = [
-  { n: 1, en: "first",  ko: "1학년", emoji: "1️⃣", img: "images/grade-1.png" },
-  { n: 2, en: "second", ko: "2학년", emoji: "2️⃣", img: "images/grade-2.png" },
-  { n: 3, en: "third",  ko: "3학년", emoji: "3️⃣", img: "images/grade-3.png" },
-  { n: 4, en: "fourth", ko: "4학년", emoji: "4️⃣", img: "images/grade-4.png" },
-  { n: 5, en: "fifth",  ko: "5학년", emoji: "5️⃣", img: "images/grade-5.png" },
-  { n: 6, en: "sixth",  ko: "6학년", emoji: "6️⃣", img: "images/grade-6.png" },
+  { n: 1, en: "first",  ko: "1학년", emoji: "1️⃣", img: "images/grade-1.jpg" },
+  { n: 2, en: "second", ko: "2학년", emoji: "2️⃣", img: "images/grade-2.jpg" },
+  { n: 3, en: "third",  ko: "3학년", emoji: "3️⃣", img: "images/grade-3.jpg" },
+  { n: 4, en: "fourth", ko: "4학년", emoji: "4️⃣", img: "images/grade-4.jpg" },
+  { n: 5, en: "fifth",  ko: "5학년", emoji: "5️⃣", img: "images/grade-5.jpg" },
+  { n: 6, en: "sixth",  ko: "6학년", emoji: "6️⃣", img: "images/grade-6.jpg" },
 ];
 
 /* ===== 층 (1~6) ===== */
@@ -33,16 +33,16 @@ const FLOORS = [
 
 /* ===== 학교 장소 10개 ===== */
 const PLACES = [
-  { id: "library",          en: "library",           ko: "도서관",    emoji: "📚", img: "images/place-library.png" },
-  { id: "music-room",       en: "music room",        ko: "음악실",    emoji: "🎵", img: "images/place-music-room.png" },
-  { id: "art-room",         en: "art room",          ko: "미술실",    emoji: "🎨", img: "images/place-art-room.png" },
-  { id: "science-room",     en: "science room",      ko: "과학실",    emoji: "🔬", img: "images/place-science-room.png" },
-  { id: "computer-room",    en: "computer room",     ko: "컴퓨터실",  emoji: "💻", img: "images/place-computer-room.png" },
-  { id: "gym",              en: "gym",               ko: "체육관",    emoji: "🏀", img: "images/place-gym.png" },
-  { id: "cafeteria",        en: "cafeteria",         ko: "급식실",    emoji: "🍱", img: "images/place-cafeteria.png" },
-  { id: "nurses-office",    en: "nurse's office",    ko: "보건실",    emoji: "🩹", img: "images/place-nurses-office.png" },
-  { id: "teachers-office",  en: "teachers' office",  ko: "교무실",    emoji: "🧑‍🏫", img: "images/place-teachers-office.png" },
-  { id: "principals-office", en: "principal's office", ko: "교장실",  emoji: "🏅", img: "images/place-principals-office.png" },
+  { id: "library",          en: "library",           ko: "도서관",    emoji: "📚", img: "images/place-library.jpg" },
+  { id: "music-room",       en: "music room",        ko: "음악실",    emoji: "🎵", img: "images/place-music-room.jpg" },
+  { id: "art-room",         en: "art room",          ko: "미술실",    emoji: "🎨", img: "images/place-art-room.jpg" },
+  { id: "science-room",     en: "science room",      ko: "과학실",    emoji: "🔬", img: "images/place-science-room.jpg" },
+  { id: "computer-room",    en: "computer room",     ko: "컴퓨터실",  emoji: "💻", img: "images/place-computer-room.jpg" },
+  { id: "gym",              en: "gym",               ko: "체육관",    emoji: "🏀", img: "images/place-gym.jpg" },
+  { id: "cafeteria",        en: "cafeteria",         ko: "급식실",    emoji: "🍱", img: "images/place-cafeteria.jpg" },
+  { id: "nurses-office",    en: "nurse's office",    ko: "보건실",    emoji: "🩹", img: "images/place-nurses-office.jpg" },
+  { id: "teachers-office",  en: "teachers' office",  ko: "교무실",    emoji: "🧑‍🏫", img: "images/place-teachers-office.jpg" },
+  { id: "principals-office", en: "principal's office", ko: "교장실",  emoji: "🏅", img: "images/place-principals-office.jpg" },
 ];
 
 /* ===== 학년 말하기 (I'm in the ___ grade.) : 초급 / 중급 / 고급 =====
